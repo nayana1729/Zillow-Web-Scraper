@@ -1,4 +1,4 @@
-Zillow-Web-Scraper
+Zillow Web-Scraper
 ========================
 
 About this project:
