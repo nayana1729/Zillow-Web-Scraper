@@ -12,4 +12,4 @@ How to use:
 1. Install selenium and beautifulsoup4
 2. Check if provided chromedriver is compatible with your device, if not, download the correct version. Make sure to place this in the same folder where scraper.py is stored.
 3. A sample Zillow URL is provided in scraper.py, be sure to edit it to your liking.
-4. Run ```python3 scraper.py```
+4. Run ``python3 scraper.py``
